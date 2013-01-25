@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ZasagActivity!</string>
+    <string name="app_name">Засаг.мн</string>
+    <string name="app_allInfo">Мэдээлэл</string>
+    <string name="app_detailInfo">Дэлгэрэнгүй мэдээлэл</string>
+
+</resources>
